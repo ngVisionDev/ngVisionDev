@@ -21,4 +21,4 @@ I'm passionate about coding, learning new technologies, and building open-source
 
 ## Get in Touch
 
-[📧 Email Me](mailto:your.email@example.com) | [🔗 LinkedIn](https://linkedin.com/in/yourprofile)
+[📧 Email Me](mailto:your.email@example.com) | [🔗 LinkedIn](https://linkedin.com/in/ng-Vision)
