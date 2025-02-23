@@ -1,24 +1,10 @@
-# Hi there! 👋
+# ng-Vision
 
-Welcome to my GitHub profile.
+**Discover more at:**  
+[https://ng-vision.com](https://ng-vision.com)
 
-🌱 I’m currently learning new technologies.
-💻 I love working with web development and open-source projects.
-📫 How to reach me: [your email or social links]
-
----
-Thanks for visiting my profile!
-
-## About Me
-
-I'm passionate about coding, learning new technologies, and building open-source projects.
-
-## Technologies I Use
-
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Angular
-- ⚙️ Backend: Node.js, Express, Python
-- 💾 Database: MongoDB, PostgreSQL, MySQL
-
-## Get in Touch
-
-[📧 Email Me](mailto:your.email@example.com) | [🔗 LinkedIn](https://linkedin.com/in/ng-Vision)
+**Connect with Us:**  
+- **Twitter:** [@ngVisionDev](https://twitter.com/ngVisionDev)  
+- **Facebook:** [ng-VisionDev](https://facebook.com/ngVisionDev)  
+- **LinkedIn:** [ng-Vision](https://linkedin.com/company/ng-vision)  
+- **GitHub:** [ng-Vision](https://github.com/ng-Vision)
